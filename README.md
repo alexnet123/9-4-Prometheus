@@ -35,6 +35,12 @@
 
 *Приложите скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта*
 
+`Targets`
+![Снимок экрана от 2022-11-19 19-55-44](https://user-images.githubusercontent.com/75438030/202862482-0b466359-41ba-4b06-88ab-2ac4f056589a.png)
+
+`Configuration`
+![Снимок экрана от 2022-11-19 19-56-05](https://user-images.githubusercontent.com/75438030/202862484-b7abb265-f832-4868-ad68-80d07d8ac50f.png)
+
 
 ---
 ## Дополнительные задания (со звездочкой*)
